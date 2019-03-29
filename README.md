@@ -1,4 +1,4 @@
-# Full EditorConfi
+# Full `.editorconfig`
 
 Complete list of C# editor config settings. 
 
